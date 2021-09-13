@@ -1,0 +1,9 @@
+name: ReportSystem
+main: main.ReportSystem
+author: MishaSok
+website: https://github.com/MishaSok
+version: 1.0
+load: STARTUP
+commands:
+    report:
+    reports:
